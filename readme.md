@@ -12,11 +12,13 @@ while also pursuing a graduate course in Full-Stack Development.
 
 ## <img src = "./assets/images/skills.gif" width="32px"> Tech Stack
 
-<img width="60px" src="./assets/skills/NodeJS-Dark.svg" />
-<img width="60px" src="./assets/skills/GoLang.svg" />
-<img width="60px" src="./assets/skills/React-Dark.svg" />
-<img width="60px" src="./assets/skills/TypeScript.svg" />
-<img width="60px" src="./assets/skills/TailwindCSS-Dark.svg" />
-<img width="60px" src="./assets/skills/PostgreSQL-Dark.svg" />
-<img width="60px" src="./assets/skills/MongoDB.svg" />
-<img width="60px" src="./assets/skills/Docker.svg" />
+<div align="center">
+  <img width="60px" src="./assets/skills/NodeJS-Dark.svg" />
+  <img width="60px" src="./assets/skills/GoLang.svg" />
+  <img width="60px" src="./assets/skills/React-Dark.svg" />
+  <img width="60px" src="./assets/skills/TypeScript.svg" />
+  <img width="60px" src="./assets/skills/TailwindCSS-Dark.svg" />
+  <img width="60px" src="./assets/skills/PostgreSQL-Dark.svg" />
+  <img width="60px" src="./assets/skills/MongoDB.svg" />
+  <img width="60px" src="./assets/skills/Docker.svg" />
+</div>
