@@ -10,6 +10,8 @@ I love tackling new challenges and learning cool tech!
 Lately, I’ve been leveling up my backend skills, focusing on Node.js and Golang,
 while also pursuing a graduate course in Full-Stack Development.
 
+<br/>
+
 ## <img src = "./assets/images/skills.gif" width="32px"> Tech Stack
 
 <div align="center">
