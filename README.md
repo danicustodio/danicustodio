@@ -2,17 +2,19 @@
 
 ## <img alt="hooded person typing in a laptop" src="./assets/images/coding.gif" width="4.5%"> Dani Custodio
 
-<img align="right" height="220px" alt="person in their room in front of a computer" src="./assets/images/programming.gif" />
+<div>
+  <img align="right" height="220px" alt="person in their room in front of a computer" src="./assets/images/programming.gif" />
 
-<p align="left">
+  <p align="left">
   👋 Hey there! I’m Dani, a software developer with around 5 years of experience, mostly in frontend (React), with a bit of iOS development in the mix.
   
   I love tackling new challenges and learning cool tech!
   
   Lately, I’ve been leveling up my backend skills, focusing on Node.js and Golang, while also pursuing a graduate course in Full-Stack Development.
-</p>
+  </p>
+</div>
 
-## <img src = "./assets/images/skills.gif" width="32px"> Tech Stack
+## <img src = "./assets/images/skills.gif" width="20px"> Tech Stack
 
 <div align="center">
   <img width="60px" src="./assets/skills/NodeJS-Dark.svg" />
