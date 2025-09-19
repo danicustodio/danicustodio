@@ -18,7 +18,7 @@
 
 <div align="center">
   <img width="60px" src="./assets/skills/NodeJS-Dark.svg" />
-  <img width="60px" src="./assets/skills/GoLang.svg" />
+  <img width="60px" src="./assets/skills/Python-Dark.svg" />
   <img width="60px" src="./assets/skills/React-Dark.svg" />
   <img width="60px" src="./assets/skills/TypeScript.svg" />
   <img width="60px" src="./assets/skills/TailwindCSS-Dark.svg" />
